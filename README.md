@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Sait Gümüş, and I specialize in mobile development with Flutter, focusing on back-end development using .NET and Node.js. Additionally, I have a passion for developing front-end applications with React.js.
+
+You can find projects related to these areas on my GitHub profile. I dedicate myself to creating powerful and scalable back-end systems, in addition to crafting user-friendly and impactful front-end experiences for web applications.
+
+If you're working in areas such as Flutter, .NET, Node.js, or React.js, my projects on GitHub can provide you with inspiration and potential collaboration opportunities. I enjoy engaging with fellow developers on social coding platforms, so please feel free to visit my GitHub profile if you'd like to provide feedback on my projects or explore collaboration opportunities.
+
+Thank you for your attention, and I look forward to connecting with you on GitHub.
+
 <!--
 **saitgumus/saitgumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
