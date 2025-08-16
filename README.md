@@ -1,27 +1,16 @@
 ### Hi there 👋
 
-I'm Sait Gümüş, and I specialize in mobile development with Flutter, focusing on back-end development using .NET, Nodejs and Golang. 
-Additionally, I have a passion for developing front-end applications with Reactjs.
+I'm Sait Gümüş, a passionate mobile developer specializing in Flutter and experienced in building robust back-end systems with .NET, Node.js and Golang. I also enjoy creating engaging front-end applications using React.js.
 
-You can find projects related to these areas on my GitHub profile. 
-I dedicate myself to creating robust and scalable back-end systems and crafting user-friendly and impactful front-end experiences for web applications.
+#### 🚀 Skills & Technologies
+- **Mobile Development:** Flutter, React Native
+- **Back-end:** .NET, Node.js, Golang
+- **Front-end:** React.js
 
-If you're working in areas such as Flutter, .NET, Node.js, Golang or React.js, my projects on GitHub can provide you with inspiration and potential collaboration opportunities.
-I enjoy engaging with fellow developers on social coding platforms, so please visit my GitHub profile if you'd like to provide feedback on my projects or explore collaboration opportunities.
+#### 🛠️ Featured Projects
+Check out my GitHub profile for projects in these areas. I focus on scalable architectures and user-friendly web experiences.
 
-Thank you for your attention, and I look forward to connecting with you on GitHub.
+#### 💬 Let’s Connect!
+I'm always open to feedback, collaboration, and connecting with fellow developers. Feel free to reach out or explore my repositories for inspiration and potential partnerships.
 
-<!--
-**saitgumus/saitgumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile — I look forward to collaborating and learning together!
